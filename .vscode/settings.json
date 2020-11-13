@@ -1,0 +1,6 @@
+{
+    "explorer.confirmDelete": false,
+    "files.autoSave": "afterDelay",
+    "php.validate.executablePath": "c:/xampp/php/php.exe",
+    "php.executablePath": "c:/xampp/php/php.exe"
+}
